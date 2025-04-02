@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!☀️ I'm Daniela Porras Molina</h1>
-<h3 align="center">I'm a Software Developer passionate about creating seamless, scalable applications to solve real-world problems.</h3>
+<h3 align="center">I'm a Software Developer passionate about creating seamless applications to solve real-world problems</h3>
 
    I’m looking to collaborate on **Front and Back end projects**
 
