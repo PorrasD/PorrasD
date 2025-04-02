@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniela Porras Molina</h1>
+<h1 align="center">Hi there!☀️ I'm Daniela Porras Molina</h1>
 <h3 align="center">A passionate frontend developer from Costa Rica</h3>
 
    I’m looking to collaborate on **Front and Back end projects**
