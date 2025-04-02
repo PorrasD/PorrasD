@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniela Porras Molina</h1>
 <h3 align="center">A passionate frontend developer from Costa Rica</h3>
 
-- 👯 I’m looking to collaborate on **Front and Back end projects**
+  👯 I’m looking to collaborate on **Front and Back end projects**
 
-- 💬 Ask me about **Full-Stack Developer || JavaScript | ReactJS | Python | Flask | APIs | PostgreSQL || SQLALchemy**
+  💬 Ask me about **Full-Stack Developer || JavaScript | ReactJS | Python | Flask | APIs | PostgreSQL || SQLALchemy**
 
-- 📫 How to reach me **[porrasmolina05@gmail.com](mailto:porrasmolina05@gmail.com)**
+  📫 **[Contact me!](mailto:porrasmolina05@gmail.com)**
   
-- 📄 Know about my experiences [here](https://flowcv.com/resume/fp4reebdi6lt)
+  📄 [Check my CV](https://flowcv.com/resume/fp4reebdi6lt)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
