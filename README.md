@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react, python, javascript, bootstrap**
 
-- 📫 How to reach me **dannyporras1296@gmail.com**
+- 📫 How to reach me **porrasmolina05@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/fp4reebdi6lt](https://flowcv.com/resume/fp4reebdi6lt)
 
