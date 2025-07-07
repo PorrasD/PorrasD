@@ -1,14 +1,20 @@
-<h1 align="center">Hi, there!🌞 I'm Daniela Porras Molina</h1>
-<h3 align="center">I'm a Software Developer passionate about creating seamless applications to solve real-world problems</h3>
+# Hi, I'm Daniela Porras Molina!
 
-I’m looking to collaborate on **Front and Back end projects**
+I'm a **Full-Stack Developer** passionate about building seamless, user-focused applications that solve real-world problems.
 
-   Ask me about **Full-Stack Developer || JavaScript | ReactJS | Python | Flask | APIs | PostgreSQL || SQLALchemy**
+I thrive at the intersection of **front-end** and **back-end** development — from designing responsive interfaces to architecting robust APIs.
 
-   **[Contact me!](mailto:porrasmolina05@gmail.com)**
-  
-   [Check my CV](https://flowcv.com/resume/fp4reebdi6lt)
-  
+---
+
+## 🔍 What I'm looking for
+
+I'm currently open to opportunities in:
+
+- 🚀 Front-end or Back-end development
+- 💼 Full-Stack junior positions
+- 🤝 Team-based agile environments where I can grow and contribute
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -51,5 +57,25 @@ I’m looking to collaborate on **Front and Back end projects**
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/>
   </a>
-</p>
 
+
+
+---
+
+## 🧠 What I know
+
+-  **Frontend:** ReactJS, JavaScript, HTML5, CSS3, Bootstrap
+-  **Backend:** Python, Flask, RESTful APIs
+-  **Databases:** PostgreSQL, MySQL, SQLAlchemy ORM
+-  **Tools:** Git, Bash, Postman, VS Code
+
+---
+
+## 📬 Let's connect!
+
+- 💌 [Email Me](mailto:porrasmolina05@gmail.com) – happy to chat!
+- 📄 [View My Resume]([https://link-to-your-cv.com](https://flowcv.com/resume/fp4reebdi6lt))
+
+---
+
+> *"I believe great software is built when empathy meets clean code. I’m always learning, always building, and always excited for what’s next."*
