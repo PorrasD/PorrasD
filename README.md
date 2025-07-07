@@ -6,13 +6,13 @@ I thrive at the intersection of **front-end** and **back-end** development — f
 
 ---
 
-## 🔍 What I'm looking for
+##  What I'm looking for
 
 I'm currently open to opportunities in:
 
-- 🚀 Front-end or Back-end development
-- 💼 Full-Stack junior positions
-- 🤝 Team-based agile environments where I can grow and contribute
+- Front-end or Back-end development
+- Full-Stack junior positions
+- Team-based agile environments where I can grow and contribute
 
 ---
 
@@ -62,7 +62,7 @@ I'm currently open to opportunities in:
 
 ---
 
-## 🧠 What I know
+## What I know
 
 -  **Frontend:** ReactJS, JavaScript, HTML5, CSS3, Bootstrap
 -  **Backend:** Python, Flask, RESTful APIs
@@ -71,7 +71,7 @@ I'm currently open to opportunities in:
 
 ---
 
-## 📬 Let's connect!
+## Let's connect!
 
 - 💌 [Email Me](mailto:porrasmolina05@gmail.com) – happy to chat!
 - 📄 [View My Resume]([https://link-to-your-cv.com](https://flowcv.com/resume/fp4reebdi6lt))
